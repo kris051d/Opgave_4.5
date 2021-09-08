@@ -26,11 +26,15 @@ public class Main {
 }
 
 //Opgave 5. zoop bliver invoket 2. gang i 13 state eller state "clink"
-
-// Complete output is
 // just for
 // any not more
 // It's
+
+//complete output is
+// just for
+// any not more
+// It's breakfast
+// !
 
 //Main
 //bizz
